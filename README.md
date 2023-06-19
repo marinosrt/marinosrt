@@ -6,7 +6,7 @@
 
 ###
 
-<div align="center">
+<div align="right">
   <a href="https://www.linkedin.com/in/marina-rterol/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -18,13 +18,11 @@
   </a>
 </div>
 
-###
-
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=marinosrt.marinosrt&"  />
 </div>
 
-###
+<img src="https://raw.githubusercontent.com/marinosrt/marinosrt/output/snake.svg" alt="Snake animation" />
 
 <h1 align="center">hey there 👋</h1>
 
@@ -32,25 +30,14 @@
 
 ###
 
-<h3 align="center">👩 💻  About Me</h3>
-
-<h3 align="left">Coming with an audiovisual background, I decided to change my future and dare to bet into the vast software world. <br>I just finished a Backend Developer Bootcamp, and I am eager to jump into this exciting learning process to keep learning and discovering new technologies.</h3>
-
-###
-
-<p align="left"></p>
+<h3 align="left">My name is Marina :)
+  
+  Coming with an audiovisual background, I decided to change my future and dare to bet into the vast software world. 
+  <br>I just finished a Backend Developer Bootcamp, and I am eager to jump into this exciting learning process to keep learning and discovering new technologies.</h3>
 
 ###
 
-###
-
-<p align="left">- 🔭 I’m working as Java Backend Developer in a IT Academy Challenge Landing Page project.<br>- 📚 I'm currently diving deeper into Java Reactive programming skills.<br>- ⚡ In my free time I dedicate my time to nature, books and sailing the seas. Trying to stay versatile for when the AI rules us all.</p>
-
-###
-
-###
-
-<h3 align="center">🎯 Language and tools</h3>
+<p align="left"></p><h3 align="center">🎯 Language and tools</h3>
 
 ###
 
@@ -84,19 +71,30 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
+    
+    
+###
+
+###                         
+
 
 ###
     
 ###
 
-<h3 align="center">🌿   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marinosrt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marinosrt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=marinosrt&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<table>
+    <tr>
+        <th>A bit about myself</th>
+    </tr>
+    <tr>
+        <td>
+            <p align="left">
+                - 🔭 I’m working as a Java Backend Developer in an IT Academy Challenge Landing Page project.<br>
+                - 📚 I'm currently diving deeper into Java Reactive programming skills.<br>
+                - ⚡ In my free time, I dedicate my time to nature, books, and sailing the seas. Trying to stay versatile for when the AI rules us all.
+            </p>
+        </td>
+    </tr>
+</table>
 
 ###
