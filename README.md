@@ -18,12 +18,6 @@
   </a>
 </div>
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=marinosrt.marinosrt&"  />
-</div>
-
-<img src="https://raw.githubusercontent.com/marinosrt/marinosrt/output/snake.svg" alt="Snake animation" />
-
 <h1 align="center">hey there 👋</h1>
 
 ###
