@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">👩 💻  About Me</h3>
+<h3 align="right">👩 💻  About Me</h3>
 
 <h3 align="left">Coming with an audiovisual background, I decided to change my future and dare to bet into the vast software world. <br>I just finished a Backend Developer Bootcamp, and I am eager to jump into this exciting learning process to keep learning and discovering new technologies.</h3>
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h3 align="left">🎯 Language and tools</h3>
+<h3 align="right">🎯 Language and tools</h3>
 
 ###
 
@@ -89,7 +89,7 @@
     
 ###
 
-<h3 align="left">🌿   My Stats :</h3>
+<h3 align="right">🌿   My Stats :</h3>
 
 ###
 
